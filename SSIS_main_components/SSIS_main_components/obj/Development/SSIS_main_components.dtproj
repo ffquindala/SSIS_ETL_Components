@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">DESKTOP-5KFLI28</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAn33zq3kLhEOcsfYa4pX/YQAAAAACAAAAAAAQZgAAAAEAACAAAAB3sVn2W9qKTzEohBshimAmj3d8z1k5VUnIbaK+M6fR/AAAAAAOgAAAAAIAACAAAACO86L2KieXQnJWy8Vl+uhlcCNzJt/sbqY7ioOC/aSOd5AAAACt5cDmmus/1AzJRXmHoUIDIyPXNwLit7NbHykQYSSjAlSWOaV3oL+bYqNUPvLHaA0Kc4y/LaWHau/vnv3FXni/mValekHHSQMk2npWzG6XddKqkRv+xUYQ09BBDwznbgJ7Gn1pI3U6ku5IyJsi+Ef4N51TwwDt22C69xoczouAvgkpVBdDlQxPy2/Or+1m0QRAAAAA3LJaYI5k9LrSqrryRGdFqnbnyq4svt4bi5iaefK7l1wQYQWRmHkizXkLBOTYvhIA0KZoSFmcUPpyiOfqBdVquw==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAn33zq3kLhEOcsfYa4pX/YQAAAAACAAAAAAAQZgAAAAEAACAAAACbIUxORZPnsqQ3L8yZEimDPm5i+suCINg5aE+n9GQhxQAAAAAOgAAAAAIAACAAAADrGkKNepogHJwXYuaYU+Z7XLk+fLbkfHcr0hWJdZK5ipAAAAAW/zCoXTlr2dGKGqdfgw+d8aXtAGpwlKw5KfC40KrbYXe2ocANB9M4+S3ahLyvTHAf25rbwpqas+hrUOUhtQV6OXEoULwgEyBFeO+CZ6vD0vOJkms9TTghWJdULMksQoY4QkBc0E0xIZW959MuBtDvwKCAoj0jD+6jBNkP5kS2GLE7ZtxhRwHPZmQKoiZSEztAAAAA24GVByzgZ1ASSKkXT5wE5rkcE+TQl56OVwaxRKG5LpIDZKnVbojU9qcRz63S8RcZ1RuNwFUW0fQ7UQPropes7Q==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -64,7 +64,7 @@
                 <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\MEUS_PROJECTOS\BI_PROJECTS\SSIS_COMPENENTES\Files\SSIS_ETL\Origem\arquivos_excel\SCD.xlsx;Extended Properties="Excel 12.0 XML;HDR=YES";</SSIS:Property>
+                <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\MEUS_PROJECTOS\BI_PROJECTS\SSIS_COMPENENTES\Files\SSIS_ETL\Origem\arquivos_excel\SCD.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
                 <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
               </SSIS:Properties>
             </SSIS:Parameter>
@@ -344,10 +344,10 @@
                 <SSIS:Property SSIS:Name="Name">Package1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">3</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">4</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{1087D49C-8016-455E-8F0C-7F4F9A85A854}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{DF6AA0DD-205C-4E30-8C33-A4A071037500}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
