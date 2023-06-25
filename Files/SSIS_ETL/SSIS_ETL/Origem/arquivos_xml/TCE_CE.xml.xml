@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Rows>
+<Row><codigo_municipio>002</codigo_municipio> <nome_municipio>ABAIARA</nome_municipio> <geoibgeId>2300101</geoibgeId></Row>
+<Row><codigo_municipio>003</codigo_municipio> <nome_municipio>ACARAPE</nome_municipio> <geoibgeId>2300150</geoibgeId></Row>
+<Row><codigo_municipio>004</codigo_municipio> <nome_municipio>ACARAU</nome_municipio> <geoibgeId>2300200</geoibgeId></Row>
+<Row><codigo_municipio>005</codigo_municipio> <nome_municipio>ACOPIARA</nome_municipio> <geoibgeId>2300309</geoibgeId></Row>
+<Row><codigo_municipio>006</codigo_municipio> <nome_municipio>AIUABA</nome_municipio> <geoibgeId>2300408</geoibgeId></Row>
+<Row><codigo_municipio>007</codigo_municipio> <nome_municipio>ALCANTARAS</nome_municipio> <geoibgeId>2300507</geoibgeId></Row>
+<Row><codigo_municipio>008</codigo_municipio> <nome_municipio>ALTANEIRA</nome_municipio> <geoibgeId>2300606</geoibgeId></Row>
+<Row><codigo_municipio>009</codigo_municipio> <nome_municipio>ALTO SANTO</nome_municipio> <geoibgeId>2300705</geoibgeId></Row>
+<Row><codigo_municipio>010</codigo_municipio> <nome_municipio>AMONTADA</nome_municipio> <geoibgeId>2300754</geoibgeId></Row>
+<Row><codigo_municipio>011</codigo_municipio> <nome_municipio>ANTONINA DO NORTE</nome_municipio> <geoibgeId>2300804</geoibgeId></Row>
+<Row><codigo_municipio>012</codigo_municipio> <nome_municipio>APUIARES</nome_municipio> <geoibgeId>2300903</geoibgeId></Row>
+<Row><codigo_municipio>013</codigo_municipio> <nome_municipio>AQUIRAZ</nome_municipio> <geoibgeId>2301000</geoibgeId></Row>
+<Row><codigo_municipio>014</codigo_municipio> <nome_municipio>ARACATI</nome_municipio> <geoibgeId>2301109</geoibgeId></Row>
+<Row><codigo_municipio>015</codigo_municipio> <nome_municipio>ARACOIABA</nome_municipio> <geoibgeId>2301208</geoibgeId></Row>
+<Row><codigo_municipio>016</codigo_municipio> <nome_municipio>ARARIPE</nome_municipio> <geoibgeId>2301307</geoibgeId></Row>
+<Row><codigo_municipio>017</codigo_municipio> <nome_municipio>ARATUBA</nome_municipio> <geoibgeId>2301406</geoibgeId></Row>
+<Row><codigo_municipio>018</codigo_municipio> <nome_municipio>ARNEIROZ</nome_municipio> <geoibgeId>2301505</geoibgeId></Row>
+<Row><codigo_municipio>019</codigo_municipio> <nome_municipio>ASSARE</nome_municipio> <geoibgeId>2301604</geoibgeId></Row>
+<Row><codigo_municipio>020</codigo_municipio> <nome_municipio>AURORA</nome_municipio> <geoibgeId>2301703</geoibgeId></Row>
+<Row><codigo_municipio>021</codigo_municipio> <nome_municipio>BAIXIO</nome_municipio> <geoibgeId>2301802</geoibgeId></Row>
+<Row><codigo_municipio>022</codigo_municipio> <nome_municipio>BANABUIU</nome_municipio> <geoibgeId>2301851</geoibgeId></Row>
+<Row><codigo_municipio>023</codigo_municipio> <nome_municipio>BARBALHA</nome_municipio> <geoibgeId>2301901</geoibgeId></Row>
+<Row><codigo_municipio>024</codigo_municipio> <nome_municipio>BARREIRA</nome_municipio> <geoibgeId>2301950</geoibgeId></Row>
+<Row><codigo_municipio>025</codigo_municipio> <nome_municipio>BARRO</nome_municipio> <geoibgeId>2302008</geoibgeId></Row>
+<Row><codigo_municipio>026</codigo_municipio> <nome_municipio>BARROQUINHA</nome_municipio> <geoibgeId>2302057</geoibgeId></Row>
+<Row><codigo_municipio>027</codigo_municipio> <nome_municipio>BATURITE</nome_municipio> <geoibgeId>2302107</geoibgeId></Row>
+<Row><codigo_municipio>028</codigo_municipio> <nome_municipio>BEBERIBE</nome_municipio> <geoibgeId>2302206</geoibgeId></Row>
+<Row><codigo_municipio>029</codigo_municipio> <nome_municipio>BELA CRUZ</nome_municipio> <geoibgeId>2302305</geoibgeId></Row>
+<Row><codigo_municipio>030</codigo_municipio> <nome_municipio>BOA VIAGEM</nome_municipio> <geoibgeId>2302404</geoibgeId></Row>
+<Row><codigo_municipio>031</codigo_municipio> <nome_municipio>BREJO SANTO</nome_municipio> <geoibgeId>2302503</geoibgeId></Row>
+<Row><codigo_municipio>032</codigo_municipio> <nome_municipio>CAMOCIM</nome_municipio> <geoibgeId>2302602</geoibgeId></Row>
+<Row><codigo_municipio>033</codigo_municipio> <nome_municipio>CAMPOS SALES</nome_municipio> <geoibgeId>2302701</geoibgeId></Row>
+<Row><codigo_municipio>034</codigo_municipio> <nome_municipio>CANINDE</nome_municipio> <geoibgeId>2302800</geoibgeId></Row>
+<Row><codigo_municipio>035</codigo_municipio> <nome_municipio>CAPISTRANO</nome_municipio> <geoibgeId>2302909</geoibgeId></Row>
+<Row><codigo_municipio>036</codigo_municipio> <nome_municipio>CARIDADE</nome_municipio> <geoibgeId>2303006</geoibgeId></Row>
+<Row><codigo_municipio>037</codigo_municipio> <nome_municipio>CARIRE</nome_municipio> <geoibgeId>2303105</geoibgeId></Row>
+<Row><codigo_municipio>038</codigo_municipio> <nome_municipio>CARIRIACU</nome_municipio> <geoibgeId>2303204</geoibgeId></Row>
+<Row><codigo_municipio>039</codigo_municipio> <nome_municipio>CARIUS</nome_municipio> <geoibgeId>2303303</geoibgeId></Row>
+<Row><codigo_municipio>040</codigo_municipio> <nome_municipio>CARNAUBAL</nome_municipio> <geoibgeId>2303402</geoibgeId></Row>
+<Row><codigo_municipio>041</codigo_municipio> <nome_municipio>CASCAVEL</nome_municipio> <geoibgeId>2303501</geoibgeId></Row>
+<Row><codigo_municipio>042</codigo_municipio> <nome_municipio>CATARINA</nome_municipio> <geoibgeId>2303600</geoibgeId></Row>
+<Row><codigo_municipio>043</codigo_municipio> <nome_municipio>CAUCAIA</nome_municipio> <geoibgeId>2303709</geoibgeId></Row>
+<Row><codigo_municipio>044</codigo_municipio> <nome_municipio>CEDRO</nome_municipio> <geoibgeId>2303808</geoibgeId></Row>
+<Row><codigo_municipio>045</codigo_municipio> <nome_municipio>CHAVAL</nome_municipio> <geoibgeId>2303907</geoibgeId></Row>
+<Row><codigo_municipio>046</codigo_municipio> <nome_municipio>CHOROZINHO</nome_municipio> <geoibgeId>2303956</geoibgeId></Row>
+<Row><codigo_municipio>047</codigo_municipio> <nome_municipio>COREAU</nome_municipio> <geoibgeId>2304004</geoibgeId></Row>
+<Row><codigo_municipio>048</codigo_municipio> <nome_municipio>CRATEUS</nome_municipio> <geoibgeId>2304103</geoibgeId></Row>
+<Row><codigo_municipio>049</codigo_municipio> <nome_municipio>CRATO</nome_municipio> <geoibgeId>2304202</geoibgeId></Row>
+<Row><codigo_municipio>050</codigo_municipio> <nome_municipio>CROATA</nome_municipio> <geoibgeId>2304236</geoibgeId></Row>
+<Row><codigo_municipio>051</codigo_municipio> <nome_municipio>CRUZ</nome_municipio> <geoibgeId>2304251</geoibgeId></Row>
+<Row><codigo_municipio>052</codigo_municipio> <nome_municipio>DEPUTADO IRAPUAN PINHEIRO</nome_municipio> <geoibgeId>2304269</geoibgeId></Row>
+<Row><codigo_municipio>053</codigo_municipio> <nome_municipio>ERERE</nome_municipio> <geoibgeId>2304277</geoibgeId></Row>
+<Row><codigo_municipio>054</codigo_municipio> <nome_municipio>EUSEBIO</nome_municipio> <geoibgeId>2304285</geoibgeId></Row>
+<Row><codigo_municipio>055</codigo_municipio> <nome_municipio>FARIAS BRITO</nome_municipio> <geoibgeId>2304301</geoibgeId></Row>
+<Row><codigo_municipio>056</codigo_municipio> <nome_municipio>FORQUILHA</nome_municipio> <geoibgeId>2304350</geoibgeId></Row>
+<Row><codigo_municipio>057</codigo_municipio> <nome_municipio>FORTALEZA</nome_municipio> <geoibgeId>2304400</geoibgeId></Row>
+<Row><codigo_municipio>058</codigo_municipio> <nome_municipio>FRECHEIRINHA</nome_municipio> <geoibgeId>2304509</geoibgeId></Row>
+<Row><codigo_municipio>059</codigo_municipio> <nome_municipio>GENERAL SAMPAIO</nome_municipio> <geoibgeId>2304608</geoibgeId></Row>
+<Row><codigo_municipio>060</codigo_municipio> <nome_municipio>GRACA</nome_municipio> <geoibgeId>2304657</geoibgeId></Row>
+<Row><codigo_municipio>061</codigo_municipio> <nome_municipio>GRANJA</nome_municipio> <geoibgeId>2304707</geoibgeId></Row>
+<Row><codigo_municipio>062</codigo_municipio> <nome_municipio>GRANJEIRO</nome_municipio> <geoibgeId>2304806</geoibgeId></Row>
+<Row><codigo_municipio>063</codigo_municipio> <nome_municipio>GROAIRAS</nome_municipio> <geoibgeId>2304905</geoibgeId></Row>
+<Row><codigo_municipio>064</codigo_municipio> <nome_municipio>GUAIUBA</nome_municipio> <geoibgeId>2304954</geoibgeId></Row>
+<Row><codigo_municipio>065</codigo_municipio> <nome_municipio>GUARACIABA DO NORTE</nome_municipio> <geoibgeId>2305001</geoibgeId></Row>
+<Row><codigo_municipio>066</codigo_municipio> <nome_municipio>GUARAMIRANGA</nome_municipio> <geoibgeId>2305100</geoibgeId></Row>
+<Row><codigo_municipio>067</codigo_municipio> <nome_municipio>HIDROLANDIA</nome_municipio> <geoibgeId>2305209</geoibgeId></Row>
+<Row><codigo_municipio>068</codigo_municipio> <nome_municipio>HORIZONTE</nome_municipio> <geoibgeId>2305233</geoibgeId></Row>
+<Row><codigo_municipio>069</codigo_municipio> <nome_municipio>IBARETAMA</nome_municipio> <geoibgeId>2305266</geoibgeId></Row>
+<Row><codigo_municipio>070</codigo_municipio> <nome_municipio>IBIAPINA</nome_municipio> <geoibgeId>2305308</geoibgeId></Row>
+<Row><codigo_municipio>071</codigo_municipio> <nome_municipio>IBICUITINGA</nome_municipio> <geoibgeId>2305332</geoibgeId></Row>
+<Row><codigo_municipio>072</codigo_municipio> <nome_municipio>ICAPUI</nome_municipio> <geoibgeId>2305357</geoibgeId></Row>
+<Row><codigo_municipio>073</codigo_municipio> <nome_municipio>ICO</nome_municipio> <geoibgeId>2305407</geoibgeId></Row>
+<Row><codigo_municipio>074</codigo_municipio> <nome_municipio>IGUATU</nome_municipio> <geoibgeId>2305506</geoibgeId></Row>
+<Row><codigo_municipio>075</codigo_municipio> <nome_municipio>INDEPENDENCIA</nome_municipio> <geoibgeId>2305605</geoibgeId></Row>
+<Row><codigo_municipio>076</codigo_municipio> <nome_municipio>IPAPORANGA</nome_municipio> <geoibgeId>2305654</geoibgeId></Row>
+<Row><codigo_municipio>077</codigo_municipio> <nome_municipio>IPAUMIRIM</nome_municipio> <geoibgeId>2305704</geoibgeId></Row>
+<Row><codigo_municipio>078</codigo_municipio> <nome_municipio>IPU</nome_municipio> <geoibgeId>2305803</geoibgeId></Row>
+<Row><codigo_municipio>079</codigo_municipio> <nome_municipio>IPUEIRAS</nome_municipio> <geoibgeId>2305902</geoibgeId></Row>
+<Row><codigo_municipio>080</codigo_municipio> <nome_municipio>IRACEMA</nome_municipio> <geoibgeId>2306009</geoibgeId></Row>
+<Row><codigo_municipio>081</codigo_municipio> <nome_municipio>IRAUCUBA</nome_municipio> <geoibgeId>2306108</geoibgeId></Row>
+<Row><codigo_municipio>082</codigo_municipio> <nome_municipio>ITAICABA</nome_municipio> <geoibgeId>2306207</geoibgeId></Row>
+<Row><codigo_municipio>083</codigo_municipio> <nome_municipio>ITAPAJE</nome_municipio> <geoibgeId>2306306</geoibgeId></Row>
+<Row><codigo_municipio>084</codigo_municipio> <nome_municipio>ITAPIPOCA</nome_municipio> <geoibgeId>2306405</geoibgeId></Row>
+<Row><codigo_municipio>085</codigo_municipio> <nome_municipio>ITAPIUNA</nome_municipio> <geoibgeId>2306504</geoibgeId></Row>
+<Row><codigo_municipio>086</codigo_municipio> <nome_municipio>ITAREMA</nome_municipio> <geoibgeId>2306553</geoibgeId></Row>
+<Row><codigo_municipio>087</codigo_municipio> <nome_municipio>ITATIRA</nome_municipio> <geoibgeId>2306603</geoibgeId></Row>
+<Row><codigo_municipio>088</codigo_municipio> <nome_municipio>JAGUARETAMA</nome_municipio> <geoibgeId>2306702</geoibgeId></Row>
+<Row><codigo_municipio>089</codigo_municipio> <nome_municipio>JAGUARIBARA</nome_municipio> <geoibgeId>2306801</geoibgeId></Row>
+<Row><codigo_municipio>090</codigo_municipio> <nome_municipio>JAGUARIBE</nome_municipio> <geoibgeId>2306900</geoibgeId></Row>
+<Row><codigo_municipio>091</codigo_municipio> <nome_municipio>JAGUARUANA</nome_municipio> <geoibgeId>2307007</geoibgeId></Row>
+<Row><codigo_municipio>092</codigo_municipio> <nome_municipio>JARDIM</nome_municipio> <geoibgeId>2307106</geoibgeId></Row>
+<Row><codigo_municipio>093</codigo_municipio> <nome_municipio>JATI</nome_municipio> <geoibgeId>2307205</geoibgeId></Row>
+<Row><codigo_municipio>094</codigo_municipio> <nome_municipio>JUAZEIRO DO NORTE</nome_municipio> <geoibgeId>2307304</geoibgeId></Row>
+<Row><codigo_municipio>095</codigo_municipio> <nome_municipio>JUCAS</nome_municipio> <geoibgeId>2307403</geoibgeId></Row>
+<Row><codigo_municipio>096</codigo_municipio> <nome_municipio>LAVRAS DA MANGABEIRA</nome_municipio> <geoibgeId>2307502</geoibgeId></Row>
+<Row><codigo_municipio>097</codigo_municipio> <nome_municipio>LIMOEIRO DO NORTE</nome_municipio> <geoibgeId>2307601</geoibgeId></Row>
+<Row><codigo_municipio>098</codigo_municipio> <nome_municipio>MADALENA</nome_municipio> <geoibgeId>2307635</geoibgeId></Row>
+<Row><codigo_municipio>099</codigo_municipio> <nome_municipio>MARACANAU</nome_municipio> <geoibgeId>2307650</geoibgeId></Row>
+<Row><codigo_municipio>100</codigo_municipio> <nome_municipio>MARANGUAPE</nome_municipio> <geoibgeId>2307700</geoibgeId></Row>
+<Row><codigo_municipio>101</codigo_municipio> <nome_municipio>MARCO</nome_municipio> <geoibgeId>2307809</geoibgeId></Row>
+<Row><codigo_municipio>102</codigo_municipio> <nome_municipio>MARTINOPOLE</nome_municipio> <geoibgeId>2307908</geoibgeId></Row>
+<Row><codigo_municipio>103</codigo_municipio> <nome_municipio>MASSAPE</nome_municipio> <geoibgeId>2308005</geoibgeId></Row>
+<Row><codigo_municipio>104</codigo_municipio> <nome_municipio>MAURITI</nome_municipio> <geoibgeId>2308104</geoibgeId></Row>
+<Row><codigo_municipio>105</codigo_municipio> <nome_municipio>MERUOCA</nome_municipio> <geoibgeId>2308203</geoibgeId></Row>
+<Row><codigo_municipio>106</codigo_municipio> <nome_municipio>MILAGRES</nome_municipio> <geoibgeId>2308302</geoibgeId></Row>
+<Row><codigo_municipio>107</codigo_municipio> <nome_municipio>MILHA</nome_municipio> <geoibgeId>2308351</geoibgeId></Row>
+<Row><codigo_municipio>108</codigo_municipio> <nome_municipio>MIRAIMA</nome_municipio> <geoibgeId>2308377</geoibgeId></Row>
+<Row><codigo_municipio>109</codigo_municipio> <nome_municipio>MISSAO VELHA</nome_municipio> <geoibgeId>2308401</geoibgeId></Row>
+<Row><codigo_municipio>110</codigo_municipio> <nome_municipio>MUCAMBO</nome_municipio> <geoibgeId>2309003</geoibgeId></Row>
+<Row><codigo_municipio>111</codigo_municipio> <nome_municipio>MOMBACA</nome_municipio> <geoibgeId>2308500</geoibgeId></Row>
+<Row><codigo_municipio>112</codigo_municipio> <nome_municipio>MONSENHOR TABOSA</nome_municipio> <geoibgeId>2308609</geoibgeId></Row>
+<Row><codigo_municipio>113</codigo_municipio> <nome_municipio>MORADA NOVA</nome_municipio> <geoibgeId>2308708</geoibgeId></Row>
+<Row><codigo_municipio>114</codigo_municipio> <nome_municipio>MORAUJO</nome_municipio> <geoibgeId>2308807</geoibgeId></Row>
+<Row><codigo_municipio>115</codigo_municipio> <nome_municipio>MORRINHOS</nome_municipio> <geoibgeId>2308906</geoibgeId></Row>
+<Row><codigo_municipio>116</codigo_municipio> <nome_municipio>MULUNGU</nome_municipio> <geoibgeId>2309102</geoibgeId></Row>
+<Row><codigo_municipio>117</codigo_municipio> <nome_municipio>NOVA OLINDA</nome_municipio> <geoibgeId>2309201</geoibgeId></Row>
+<Row><codigo_municipio>118</codigo_municipio> <nome_municipio>NOVA RUSSAS</nome_municipio> <geoibgeId>2309300</geoibgeId></Row>
+<Row><codigo_municipio>119</codigo_municipio> <nome_municipio>NOVO ORIENTE</nome_municipio> <geoibgeId>2309409</geoibgeId></Row>
+<Row><codigo_municipio>120</codigo_municipio> <nome_municipio>OCARA</nome_municipio> <geoibgeId>2309458</geoibgeId></Row>
+<Row><codigo_municipio>121</codigo_municipio> <nome_municipio>OROS</nome_municipio> <geoibgeId>2309508</geoibgeId></Row>
+<Row><codigo_municipio>122</codigo_municipio> <nome_municipio>PACAJUS</nome_municipio> <geoibgeId>2309607</geoibgeId></Row>
+<Row><codigo_municipio>123</codigo_municipio> <nome_municipio>PACATUBA</nome_municipio> <geoibgeId>2309706</geoibgeId></Row>
+<Row><codigo_municipio>124</codigo_municipio> <nome_municipio>PACOTI</nome_municipio> <geoibgeId>2309805</geoibgeId></Row>
+<Row><codigo_municipio>125</codigo_municipio> <nome_municipio>PACUJA</nome_municipio> <geoibgeId>2309904</geoibgeId></Row>
+<Row><codigo_municipio>126</codigo_municipio> <nome_municipio>PALHANO</nome_municipio> <geoibgeId>2310001</geoibgeId></Row>
+<Row><codigo_municipio>127</codigo_municipio> <nome_municipio>PALMACIA</nome_municipio> <geoibgeId>2310100</geoibgeId></Row>
+<Row><codigo_municipio>128</codigo_municipio> <nome_municipio>PARACURU</nome_municipio> <geoibgeId>2310209</geoibgeId></Row>
+<Row><codigo_municipio>129</codigo_municipio> <nome_municipio>PARAIPABA</nome_municipio> <geoibgeId>2310258</geoibgeId></Row>
+<Row><codigo_municipio>130</codigo_municipio> <nome_municipio>PARAMBU</nome_municipio> <geoibgeId>2310308</geoibgeId></Row>
+<Row><codigo_municipio>131</codigo_municipio> <nome_municipio>PARAMOTI</nome_municipio> <geoibgeId>2310407</geoibgeId></Row>
+<Row><codigo_municipio>132</codigo_municipio> <nome_municipio>PEDRA BRANCA</nome_municipio> <geoibgeId>2310506</geoibgeId></Row>
+<Row><codigo_municipio>133</codigo_municipio> <nome_municipio>PENAFORTE</nome_municipio> <geoibgeId>2310605</geoibgeId></Row>
+<Row><codigo_municipio>134</codigo_municipio> <nome_municipio>PENTECOSTE</nome_municipio> <geoibgeId>2310704</geoibgeId></Row>
+<Row><codigo_municipio>135</codigo_municipio> <nome_municipio>PEREIRO</nome_municipio> <geoibgeId>2310803</geoibgeId></Row>
+<Row><codigo_municipio>136</codigo_municipio> <nome_municipio>PINDORETAMA</nome_municipio> <geoibgeId>2310852</geoibgeId></Row>
+<Row><codigo_municipio>137</codigo_municipio> <nome_municipio>PIQUET CARNEIRO</nome_municipio> <geoibgeId>2310902</geoibgeId></Row>
+<Row><codigo_municipio>138</codigo_municipio> <nome_municipio>PIRES FERREIRA</nome_municipio> <geoibgeId>2310951</geoibgeId></Row>
+<Row><codigo_municipio>139</codigo_municipio> <nome_municipio>PORANGA</nome_municipio> <geoibgeId>2311009</geoibgeId></Row>
+<Row><codigo_municipio>140</codigo_municipio> <nome_municipio>PORTEIRAS</nome_municipio> <geoibgeId>2311108</geoibgeId></Row>
+<Row><codigo_municipio>141</codigo_municipio> <nome_municipio>POTENGI</nome_municipio> <geoibgeId>2311207</geoibgeId></Row>
+<Row><codigo_municipio>142</codigo_municipio> <nome_municipio>POTIRETAMA</nome_municipio> <geoibgeId>2311231</geoibgeId></Row>
+<Row><codigo_municipio>143</codigo_municipio> <nome_municipio>QUITERIANOPOLIS</nome_municipio> <geoibgeId>2311264</geoibgeId></Row>
+<Row><codigo_municipio>144</codigo_municipio> <nome_municipio>QUIXADA</nome_municipio> <geoibgeId>2311306</geoibgeId></Row>
+<Row><codigo_municipio>145</codigo_municipio> <nome_municipio>QUIXELO</nome_municipio> <geoibgeId>2311355</geoibgeId></Row>
+<Row><codigo_municipio>146</codigo_municipio> <nome_municipio>QUIXERAMOBIM</nome_municipio> <geoibgeId>2311405</geoibgeId></Row>
+<Row><codigo_municipio>147</codigo_municipio> <nome_municipio>QUIXERE</nome_municipio> <geoibgeId>2311504</geoibgeId></Row>
+<Row><codigo_municipio>148</codigo_municipio> <nome_municipio>REDENCAO</nome_municipio> <geoibgeId>2311603</geoibgeId></Row>
+<Row><codigo_municipio>149</codigo_municipio> <nome_municipio>RERIUTABA</nome_municipio> <geoibgeId>2311702</geoibgeId></Row>
+<Row><codigo_municipio>150</codigo_municipio> <nome_municipio>RUSSAS</nome_municipio> <geoibgeId>2311801</geoibgeId></Row>
+<Row><codigo_municipio>151</codigo_municipio> <nome_municipio>SABOEIRO</nome_municipio> <geoibgeId>2311900</geoibgeId></Row>
+<Row><codigo_municipio>152</codigo_municipio> <nome_municipio>SALITRE</nome_municipio> <geoibgeId>2311959</geoibgeId></Row>
+<Row><codigo_municipio>153</codigo_municipio> <nome_municipio>SANTANA DO ACARAU</nome_municipio> <geoibgeId>2312007</geoibgeId></Row>
+<Row><codigo_municipio>154</codigo_municipio> <nome_municipio>SANTANA DO CARIRI</nome_municipio> <geoibgeId>2312106</geoibgeId></Row>
+<Row><codigo_municipio>155</codigo_municipio> <nome_municipio>SANTA QUITERIA</nome_municipio> <geoibgeId>2312205</geoibgeId></Row>
+<Row><codigo_municipio>156</codigo_municipio> <nome_municipio>SAO BENEDITO</nome_municipio> <geoibgeId>2312304</geoibgeId></Row>
+<Row><codigo_municipio>157</codigo_municipio> <nome_municipio>SAO GONCALO DO AMARANTE</nome_municipio> <geoibgeId>2312403</geoibgeId></Row>
+<Row><codigo_municipio>158</codigo_municipio> <nome_municipio>SAO JOAO DO JAGUARIBE</nome_municipio> <geoibgeId>2312502</geoibgeId></Row>
+<Row><codigo_municipio>159</codigo_municipio> <nome_municipio>SAO LUIS DO CURU</nome_municipio> <geoibgeId>2312601</geoibgeId></Row>
+<Row><codigo_municipio>160</codigo_municipio> <nome_municipio>SENADOR POMPEU</nome_municipio> <geoibgeId>2312700</geoibgeId></Row>
+<Row><codigo_municipio>161</codigo_municipio> <nome_municipio>SENADOR SA</nome_municipio> <geoibgeId>2312809</geoibgeId></Row>
+<Row><codigo_municipio>162</codigo_municipio> <nome_municipio>SOBRAL</nome_municipio> <geoibgeId>2312908</geoibgeId></Row>
+<Row><codigo_municipio>163</codigo_municipio> <nome_municipio>SOLONOPOLE</nome_municipio> <geoibgeId>2313005</geoibgeId></Row>
+<Row><codigo_municipio>164</codigo_municipio> <nome_municipio>TABULEIRO DO NORTE</nome_municipio> <geoibgeId>2313104</geoibgeId></Row>
+<Row><codigo_municipio>165</codigo_municipio> <nome_municipio>TAMBORIL</nome_municipio> <geoibgeId>2313203</geoibgeId></Row>
+<Row><codigo_municipio>166</codigo_municipio> <nome_municipio>TARRAFAS</nome_municipio> <geoibgeId>2313252</geoibgeId></Row>
+<Row><codigo_municipio>167</codigo_municipio> <nome_municipio>TAUA</nome_municipio> <geoibgeId>2313302</geoibgeId></Row>
+<Row><codigo_municipio>168</codigo_municipio> <nome_municipio>TEJUCUOCA</nome_municipio> <geoibgeId>2313351</geoibgeId></Row>
+<Row><codigo_municipio>169</codigo_municipio> <nome_municipio>TIANGUA</nome_municipio> <geoibgeId>2313401</geoibgeId></Row>
+<Row><codigo_municipio>170</codigo_municipio> <nome_municipio>TRAIRI</nome_municipio> <geoibgeId>2313500</geoibgeId></Row>
+<Row><codigo_municipio>171</codigo_municipio> <nome_municipio>TURURU</nome_municipio> <geoibgeId>2313559</geoibgeId></Row>
+<Row><codigo_municipio>172</codigo_municipio> <nome_municipio>UBAJARA</nome_municipio> <geoibgeId>2313609</geoibgeId></Row>
+<Row><codigo_municipio>173</codigo_municipio> <nome_municipio>UMARI</nome_municipio> <geoibgeId>2313708</geoibgeId></Row>
+<Row><codigo_municipio>174</codigo_municipio> <nome_municipio>UMIRIM</nome_municipio> <geoibgeId>2313757</geoibgeId></Row>
+<Row><codigo_municipio>175</codigo_municipio> <nome_municipio>URUBURETAMA</nome_municipio> <geoibgeId>2313807</geoibgeId></Row>
+<Row><codigo_municipio>176</codigo_municipio> <nome_municipio>URUOCA</nome_municipio> <geoibgeId>2313906</geoibgeId></Row>
+<Row><codigo_municipio>177</codigo_municipio> <nome_municipio>VARJOTA</nome_municipio> <geoibgeId>2313955</geoibgeId></Row>
+<Row><codigo_municipio>178</codigo_municipio> <nome_municipio>VARZEA ALEGRE</nome_municipio> <geoibgeId>2314003</geoibgeId></Row>
+<Row><codigo_municipio>179</codigo_municipio> <nome_municipio>VICOSA DO CEARA</nome_municipio> <geoibgeId>2314102</geoibgeId></Row>
+<Row><codigo_municipio>180</codigo_municipio> <nome_municipio>ARARENDA</nome_municipio> <geoibgeId>2301257</geoibgeId></Row>
+<Row><codigo_municipio>181</codigo_municipio> <nome_municipio>CATUNDA</nome_municipio> <geoibgeId>2303659</geoibgeId></Row>
+<Row><codigo_municipio>182</codigo_municipio> <nome_municipio>CHORO</nome_municipio> <geoibgeId>2303931</geoibgeId></Row>
+<Row><codigo_municipio>183</codigo_municipio> <nome_municipio>FORTIM</nome_municipio> <geoibgeId>2304459</geoibgeId></Row>
+<Row><codigo_municipio>184</codigo_municipio> <nome_municipio>ITAITINGA</nome_municipio> <geoibgeId>2306256</geoibgeId></Row>
+<Row><codigo_municipio>185</codigo_municipio> <nome_municipio>JIJOCA DE JERICOACOARA</nome_municipio> <geoibgeId>2307254</geoibgeId></Row>
+</Rows>
